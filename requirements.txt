@@ -1,0 +1,5 @@
+cvxpy==1.3.1
+cvxpylayers==0.1.5
+numpy==1.24.2
+tensorflow==2.11.1
+diffcp==1.0.21
