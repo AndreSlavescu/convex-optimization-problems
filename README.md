@@ -1,4 +1,4 @@
-# Complex Optimization Problems 
+# Convex Optimization Problems 
 
 Implementing complex optimization problems with cvxpy and cvxpylayers
 
